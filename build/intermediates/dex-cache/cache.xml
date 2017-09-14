@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="686911f4f8b4df52d9a84a6cd9ee6de58a697b45">
+        <dex dex="/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_07b332aae52d60f3f13e22011eb8019c133fb23c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ray360310/android-sdks/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_d618c99977b569406c5ee93c6965afde4d8bd0d4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="22.0.0"
+        sha1="524742adb45b507e822ce320f51b4f99b6d5ea39">
+        <dex dex="/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5f56101d33f773e90e3617990bd731f2a4414635/classes.dex" />
+    </item>
+
+</items>

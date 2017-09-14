@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/layout-land/splashscreen.xml",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/layout-land/splashscreen.xml"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/layout-land/activity_mp3_player_main.xml",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/layout-land/activity_mp3_player_main.xml"
+    }
+]

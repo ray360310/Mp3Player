@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <TextView
+            android:id="@+id/textView_00"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:singleLine="true"
+            android:text=""
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:textSize="120sp" />
+
+    <TextView
+        android:id="@+id/textView_songname"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:singleLine="true"
+        android:text="SongName"
+        android:ellipsize="marquee"
+		android:focusable="true"
+  		android:marqueeRepeatLimit="marquee_forever"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textSize="52sp" />
+
+    <TextView
+        android:id="@+id/textView_songdetail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="5dp"
+        android:text="songdetail"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:textSize="22sp" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="121dp" >
+        
+        <SeekBar
+            android:id="@+id/seekBar_timefocus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true" />
+
+        <TextView
+            android:id="@+id/textView_endplaytime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView_nowplaytime"
+            android:layout_alignBottom="@+id/textView_nowplaytime"
+            android:layout_alignParentRight="true"
+            android:text="00:00"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <TextView
+            android:id="@+id/textView_nowplaytime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/seekBar_timefocus"
+            android:layout_alignParentLeft="true"
+            android:text="00:00"
+            android:textAppearance="?android:attr/textAppearanceSmall" />
+
+        <ImageButton
+            android:id="@+id/imageButton03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageButton02"
+            android:layout_toRightOf="@+id/imageButton02"
+            android:adjustViewBounds="true"
+            android:padding="0dip"
+            android:src="@drawable/next" />
+
+        <ImageButton
+            android:id="@+id/imageButton02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/textView_nowplaytime"
+            android:layout_centerHorizontal="true"
+            android:adjustViewBounds="true"
+            android:padding="0dip"
+            android:src="@drawable/play" />
+
+        <ImageButton
+            android:id="@+id/imageButton01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/seekBar_timefocus"
+            android:layout_toLeftOf="@+id/imageButton02"
+            android:adjustViewBounds="true"
+            android:padding="0dip"
+            android:src="@drawable/previous" />
+
+        
+
+    </RelativeLayout>
+
+    
+
+</LinearLayout>

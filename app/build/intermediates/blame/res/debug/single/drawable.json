@@ -1,0 +1,46 @@
+[
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/logo_splash_land.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/logo_splash_land.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/previous.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/previous.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/looping.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/looping.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/stop.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/stop.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/play.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/play.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/shuffle.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/shuffle.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/pause.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/pause.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/ff13.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/ff13.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/source.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/source.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/next.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/next.png"
+    },
+    {
+        "merged": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/build/intermediates/res/merged/debug/drawable/logo_splash.png",
+        "source": "/Users/ray360310/AndroidstudioProjects/Mp3Player/app/src/main/res/drawable/logo_splash.png"
+    }
+]
